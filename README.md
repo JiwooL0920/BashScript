@@ -1,14 +1,9 @@
 # Overview
 **Name:** Jiwoo Lee  
-**MacID:** leej229
-
 **Last Update:** Feb 25, 2019  
-**Status:** Finished Part 2
 
 # Description
 This project is designed to make an interactive bash script that takes user input to perform specific features in a repository.
-
-For more information about this project, please refer to [this link](https://mac1xa3.ca/Projects/Project01.pdf).
 
 # Basic Commands/Execution
 This script initializes when the user writes the following command in ~CS1XA3/Project01 directory:
